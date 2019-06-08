@@ -1,0 +1,3 @@
+rootProject.name = 'SpinerDateTimePicker'
+
+include ':app'
